@@ -1,10 +1,11 @@
 # Unreal-universal-platform
 In this repository you find  the Instructions of use of the Blueprint DBV Universal platform available in the Marketplace of Unreal Engine 5. It can be use in platform games like "fall guys" developed in this platform. This code permit to create platforms that moves horizontally or in any direction (ie. doors, elevators, sliding platforms). Also that can turn (discs, obstacles)  or tilt/swing. 
 
-- [Step by Step](#step-by-step)
+- [Unreal-universal-platform](#unreal-universal-platform)
+- [Step by step](#step-by-step)
 - [Videos](#videos)
 
-#Step by step
+# Step by step
 
 In this guide you will learn to use the DBVUniversalPlatform. You can create a new project or use the demoLevel where you can check many examples and see the result of changing the configuration parameters. If you don like to read much, you can check the [Videos](#videos).
 
@@ -48,7 +49,7 @@ You can personalize the static mesh of your platform and set any static mesh as 
 If you change your static mesh, probably you need to fix the Collision box. You can do it easily selection Collision and then changing the Scale in Transform.
 <img src="Imagenes/9.colision.png" align="center" />
 
-#Videos
+# Videos
 
 Here you will find the different videos that show how to use it or with examples of use: 
 
