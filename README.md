@@ -5,6 +5,7 @@ In this repository you find  the Instructions of use of the Blueprint DBV Univer
 - [Videos](#videos)
 
 #Step by step
+
 In this guide you will learn to use the DBVUniversalPlatform. You can create a new project or use the demoLevel where you can check many examples and see the result of changing the configuration parameters. If you don like to read much, you can check the [Videos](#videos).
 
 When we begin a level with this blueprint installed you will find in the Content Drawer a folder DBV. Inside, in the Content->DBV->Blueprint you will find the BP_DBVUniversalPlatform. 
@@ -48,9 +49,12 @@ If you change your static mesh, probably you need to fix the Collision box. You 
 <img src="Imagenes/9.colision.png" align="center" />
 
 #Videos
+
 Here you will find the different videos that show how to use it or with examples of use: 
 
 [Demo Level Included in the pack (Third Person view)]( https://youtu.be/PTT5V5t6F9A)
+
 [Tutorial of How to use the Universal Platform.](https://youtu.be/_AtmbjfpMsM)
+
 [Demo Level ang example of a game made with this platform.](https://youtu.be/j6-svHHZjA8)
 
