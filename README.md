@@ -4,6 +4,7 @@ In this repository you find  the Instructions of use of the Blueprint DBV Univer
 - [DBV Universal Platform for Unreal Engine 5](#dbv-universal-platform-for-unreal-engine-5)
 - [Step by step](#step-by-step)
 - [Videos](#videos)
+- [Demo Level Notes](#demo-level-notes)
 
 # Step by step
 
@@ -59,3 +60,6 @@ Here you will find the different videos that show how to use it or with examples
 
 [Demo Level ang example of a game made with this platform.](https://youtu.be/j6-svHHZjA8)
 
+# Demo Level Notes
+The demo level uses third person character,but if you do not have well configure de Input the character will not move. To solve this problem I have prepared the file: [InputDemoLevel.ini](code/InputDemoLevel.ini) dowload it to your computer and inside Unreal Engine 5 with your project open go to: Edit->Project Settings->Engine->Input and click on the button "Import..." (top right of the windows). Choose the InputDemoLevel.ini you have downloaded, and the character will move correctly in the demo level.
+<img src="Imagenes/10.FixInput.png" align="center" />
