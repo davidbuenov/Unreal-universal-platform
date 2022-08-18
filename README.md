@@ -1,5 +1,7 @@
 # DBV Universal Platform for Unreal Engine 5
-In this repository you find  the Instructions of use of the Blueprint DBV Universal platform available in the Marketplace of Unreal Engine 5. It can be use in platform games like "fall guys" developed in this platform. This code permit to create platforms that moves horizontally or in any direction (ie. doors, elevators, sliding platforms). Also that can turn (discs, obstacles)  or tilt/swing. 
+In this repository you find  the Instructions of use of the Blueprint [DBV Universal platform available in the Marketplace of Unreal Engine 5](https://www.unrealengine.com/marketplace/en-US/product/dbv-universal-platform). It can be use in platform games like "fall guys" developed in this platform. This code permit to create platforms that moves horizontally or in any direction (ie. doors, elevators, sliding platforms). Also that can turn (discs, obstacles)  or tilt/swing.  
+
+In this document you can find the main instructions and the common FAQ are added in the [FAQ](FAQ.md) page.
 
 - [DBV Universal Platform for Unreal Engine 5](#dbv-universal-platform-for-unreal-engine-5)
 - [Step by step](#step-by-step)
@@ -8,7 +10,14 @@ In this repository you find  the Instructions of use of the Blueprint DBV Univer
 
 # Step by step
 
-In this guide you will learn to use the DBVUniversalPlatform. You can create a new project or use the demoLevel where you can check many examples and see the result of changing the configuration parameters. If you don like to read much, you can check the [Videos](#videos).
+In this guide you will learn to use the DBVUniversalPlatform. If you don like to read much, you can check the [Videos](#videos).
+
+The first step is to create a project in Unreal Engine 5. 
+
+Then go to the Unreal Marketplace and search for: DBV Universal Platform. The direct link is:[DBV Universal Platform for Unreal Engine 5](#dbv-universal-platform-for-unreal-engine-5). Click on the yellow button (Add to the project/Añadir al proyecto). Then select your new project.
+<img src="Imagenes/11.DownloadLink.png" align="center" />
+
+Now you can create a new level or use the demoLevel where you can check many examples and see the result of changing the configuration parameters (please check [Demo Level Notes](#demo-level-notes) if the character does not move). 
 
 When we begin a level with this blueprint installed you will find in the Content Drawer a folder DBV. Inside, in the Content->DBV->Blueprint you will find the BP_DBVUniversalPlatform. 
 <img src="Imagenes/1.SelectBlueprint.png" align="center" />
